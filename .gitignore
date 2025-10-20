@@ -1,1 +1,3 @@
 firebase_key.json
+build/**/firebase_key.json
+*.pkg
